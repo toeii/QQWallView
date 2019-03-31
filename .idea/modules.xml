@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QQWallView.iml" filepath="$PROJECT_DIR$/QQWallView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqwallview/qqwallview.iml" filepath="$PROJECT_DIR$/qqwallview/qqwallview.iml" />
+    </modules>
+  </component>
+</project>

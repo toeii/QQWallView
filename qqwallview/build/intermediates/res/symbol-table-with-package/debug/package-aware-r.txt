@@ -1,0 +1,2 @@
+com.toeii.qqwallview
+string app_name
