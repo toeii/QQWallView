@@ -5,35 +5,35 @@ INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/Android
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [:qqwallview] /Users/Toeii/AndroidStudioProjects/QQWallView/qqwallview/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/377c81190047b74c5407de1465ebaf36/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/371169c1b13f64ad30cabd5d3b0fbd08/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/adc865d5d0abb390202aa429ad87c4b3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/19d15c381798c7063a8a29235092addc/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/f519eba97d491cd105f5adf8358a555f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/f8553493378d199f42e42d5e0c039ae7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5f8d6e66e82c4aa9293a41c313b7aca1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/868a311dcd8e27b2c9c80cf4076179f7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/eb1d0b7a3f7e501bd19ad0337e6ab47f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a721ebb01142b6163274e7c2852ea3ce/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ab365147c778fda1161dae7b54d083f2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/27169a4e1458be690af0973b68b463e5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/81946f2d99fba9e60ddd16623b285ea6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9b6fb7414cd710f8cd838c70a4119744/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/dc80eb7091bd31bec9de30eb0caa13aa/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/9a0ca044fe763b52fda731ce97ce7e82/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2f7da5289d4421439306509782604711/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/3af86585ef4a28e8a70508954094f128/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/eeb8bf18cfbce773787b5b7c04b5ca61/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b114ef33c42449369b820ff99eb01222/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0bf55344a3e6c84f3941b55c8ecba5e7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/830e1e1cc5246d6e84edbe7010e3d373/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2392f67af9c66fc98b7d85f6a5511819/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2efbabe603fdbd59f494c0b65f5304c4/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e7d767f997732c25cc6d567dbbd90e80/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ddfbffa7f39f3c4e26da814bd141e37c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5b300b500406a29052f835421fdac1f9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/fa201728013ca90520beb8c75ac3121c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b0dc6380f5f93270c7963c1dd3135930/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/31858c60e0e7e1ab1f6e8015d6188148/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/8c8de7dfd4b66b1b878c9fa15b103bec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/1c88b16ccec49a7a02f7c776526678ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/41e7040001146054b958df0aebc61f58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/343ff084e82ad5e4567746e62e9c896f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1d5e67739f95f4a5598667bda18d9024/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7e743edd5a2308f97bdeb054b08c215f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/738b688a685fa6106242ed648be54c8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/78af87096b5fcd63e30a7d2e2d5f6228/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/489b29fb051287a2a0ed705f99ef4373/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/18dde5861b4c27958f43eb7892bcb6a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/58e79fca506710a7abdcc8f8df1756e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/92db9f5c633c506eb0818702f319cd56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/569714787e29c914eae48a72191b16f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b88909e92996be4b203e26499b59ae36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/997bf68219659dfd00dfced6efd2bfab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/dbec249b2b55e72e195828ed8185c1f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/0c67499112dd958a142949085bd7d576/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/f103dee48a07c8100fe3abc5f062537c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/74d1424f3a208402e1b63e2cdcc33560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d314f81efc96241a999bb0e8c77026c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c700c793276133997dfcb3367f1f9915/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/dcca534a55fcf87831324b6fd6d35931/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/df8f4c0abafab7e69dd70428df01eb6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/7365fc041dd69b56db2dcc05f2a5483e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/32263bdca9ba657457fb4320c573ba33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cdeef176a8f1aa7f5a5babb7751b588d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a226ff06509427bf9bd16ea6f5e30d17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7e045d896b9036c076ec74545e08e940/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:2:1-21:12
@@ -53,14 +53,14 @@ INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/Android
 		ADDED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/377c81190047b74c5407de1465ebaf36/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/377c81190047b74c5407de1465ebaf36/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/3af86585ef4a28e8a70508954094f128/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/3af86585ef4a28e8a70508954094f128/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/eeb8bf18cfbce773787b5b7c04b5ca61/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/eeb8bf18cfbce773787b5b7c04b5ca61/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/31858c60e0e7e1ab1f6e8015d6188148/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/31858c60e0e7e1ab1f6e8015d6188148/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/0c67499112dd958a142949085bd7d576/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/0c67499112dd958a142949085bd7d576/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/f103dee48a07c8100fe3abc5f062537c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/f103dee48a07c8100fe3abc5f062537c/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/3af86585ef4a28e8a70508954094f128/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/0c67499112dd958a142949085bd7d576/AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml:10:13-39
 	android:label
@@ -92,67 +92,67 @@ INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/Android
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml
 MERGED from [:qqwallview] /Users/Toeii/AndroidStudioProjects/QQWallView/qqwallview/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-44
 MERGED from [:qqwallview] /Users/Toeii/AndroidStudioProjects/QQWallView/qqwallview/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/377c81190047b74c5407de1465ebaf36/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/377c81190047b74c5407de1465ebaf36/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/371169c1b13f64ad30cabd5d3b0fbd08/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/371169c1b13f64ad30cabd5d3b0fbd08/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/adc865d5d0abb390202aa429ad87c4b3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/adc865d5d0abb390202aa429ad87c4b3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/19d15c381798c7063a8a29235092addc/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/19d15c381798c7063a8a29235092addc/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/f519eba97d491cd105f5adf8358a555f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/f519eba97d491cd105f5adf8358a555f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/f8553493378d199f42e42d5e0c039ae7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/f8553493378d199f42e42d5e0c039ae7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5f8d6e66e82c4aa9293a41c313b7aca1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5f8d6e66e82c4aa9293a41c313b7aca1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/868a311dcd8e27b2c9c80cf4076179f7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/868a311dcd8e27b2c9c80cf4076179f7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/eb1d0b7a3f7e501bd19ad0337e6ab47f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/eb1d0b7a3f7e501bd19ad0337e6ab47f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a721ebb01142b6163274e7c2852ea3ce/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a721ebb01142b6163274e7c2852ea3ce/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ab365147c778fda1161dae7b54d083f2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ab365147c778fda1161dae7b54d083f2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/27169a4e1458be690af0973b68b463e5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/27169a4e1458be690af0973b68b463e5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/81946f2d99fba9e60ddd16623b285ea6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/81946f2d99fba9e60ddd16623b285ea6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9b6fb7414cd710f8cd838c70a4119744/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9b6fb7414cd710f8cd838c70a4119744/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/dc80eb7091bd31bec9de30eb0caa13aa/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/dc80eb7091bd31bec9de30eb0caa13aa/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/9a0ca044fe763b52fda731ce97ce7e82/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/9a0ca044fe763b52fda731ce97ce7e82/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2f7da5289d4421439306509782604711/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2f7da5289d4421439306509782604711/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/3af86585ef4a28e8a70508954094f128/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/3af86585ef4a28e8a70508954094f128/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/eeb8bf18cfbce773787b5b7c04b5ca61/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/eeb8bf18cfbce773787b5b7c04b5ca61/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b114ef33c42449369b820ff99eb01222/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b114ef33c42449369b820ff99eb01222/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0bf55344a3e6c84f3941b55c8ecba5e7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0bf55344a3e6c84f3941b55c8ecba5e7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/830e1e1cc5246d6e84edbe7010e3d373/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/830e1e1cc5246d6e84edbe7010e3d373/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2392f67af9c66fc98b7d85f6a5511819/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2392f67af9c66fc98b7d85f6a5511819/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2efbabe603fdbd59f494c0b65f5304c4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2efbabe603fdbd59f494c0b65f5304c4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e7d767f997732c25cc6d567dbbd90e80/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e7d767f997732c25cc6d567dbbd90e80/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ddfbffa7f39f3c4e26da814bd141e37c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ddfbffa7f39f3c4e26da814bd141e37c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5b300b500406a29052f835421fdac1f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5b300b500406a29052f835421fdac1f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/fa201728013ca90520beb8c75ac3121c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/fa201728013ca90520beb8c75ac3121c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b0dc6380f5f93270c7963c1dd3135930/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b0dc6380f5f93270c7963c1dd3135930/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/31858c60e0e7e1ab1f6e8015d6188148/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/31858c60e0e7e1ab1f6e8015d6188148/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/8c8de7dfd4b66b1b878c9fa15b103bec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/8c8de7dfd4b66b1b878c9fa15b103bec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/1c88b16ccec49a7a02f7c776526678ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/1c88b16ccec49a7a02f7c776526678ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/41e7040001146054b958df0aebc61f58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/41e7040001146054b958df0aebc61f58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/343ff084e82ad5e4567746e62e9c896f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/343ff084e82ad5e4567746e62e9c896f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1d5e67739f95f4a5598667bda18d9024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1d5e67739f95f4a5598667bda18d9024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7e743edd5a2308f97bdeb054b08c215f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7e743edd5a2308f97bdeb054b08c215f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/738b688a685fa6106242ed648be54c8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/738b688a685fa6106242ed648be54c8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/78af87096b5fcd63e30a7d2e2d5f6228/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/78af87096b5fcd63e30a7d2e2d5f6228/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/489b29fb051287a2a0ed705f99ef4373/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/489b29fb051287a2a0ed705f99ef4373/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/18dde5861b4c27958f43eb7892bcb6a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/18dde5861b4c27958f43eb7892bcb6a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/58e79fca506710a7abdcc8f8df1756e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/58e79fca506710a7abdcc8f8df1756e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/92db9f5c633c506eb0818702f319cd56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/92db9f5c633c506eb0818702f319cd56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/569714787e29c914eae48a72191b16f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/569714787e29c914eae48a72191b16f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b88909e92996be4b203e26499b59ae36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b88909e92996be4b203e26499b59ae36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/997bf68219659dfd00dfced6efd2bfab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/997bf68219659dfd00dfced6efd2bfab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/dbec249b2b55e72e195828ed8185c1f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/dbec249b2b55e72e195828ed8185c1f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/0c67499112dd958a142949085bd7d576/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/0c67499112dd958a142949085bd7d576/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/f103dee48a07c8100fe3abc5f062537c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/f103dee48a07c8100fe3abc5f062537c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/74d1424f3a208402e1b63e2cdcc33560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/74d1424f3a208402e1b63e2cdcc33560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d314f81efc96241a999bb0e8c77026c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d314f81efc96241a999bb0e8c77026c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c700c793276133997dfcb3367f1f9915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c700c793276133997dfcb3367f1f9915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/dcca534a55fcf87831324b6fd6d35931/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/dcca534a55fcf87831324b6fd6d35931/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/df8f4c0abafab7e69dd70428df01eb6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/df8f4c0abafab7e69dd70428df01eb6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/7365fc041dd69b56db2dcc05f2a5483e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/7365fc041dd69b56db2dcc05f2a5483e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/32263bdca9ba657457fb4320c573ba33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/32263bdca9ba657457fb4320c573ba33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cdeef176a8f1aa7f5a5babb7751b588d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cdeef176a8f1aa7f5a5babb7751b588d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a226ff06509427bf9bd16ea6f5e30d17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a226ff06509427bf9bd16ea6f5e30d17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7e045d896b9036c076ec74545e08e940/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7e045d896b9036c076ec74545e08e940/AndroidManifest.xml:20:5-44
 INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		ADDED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/377c81190047b74c5407de1465ebaf36/AndroidManifest.xml:7:9-38
+		ADDED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/Toeii/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/31858c60e0e7e1ab1f6e8015d6188148/AndroidManifest.xml:7:9-38
 	android:minSdkVersion
 		INJECTED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml
 		ADDED from /Users/Toeii/AndroidStudioProjects/QQWallView/app/src/main/AndroidManifest.xml
