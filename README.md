@@ -27,6 +27,14 @@ Step 2. Add the dependency
 
 ## Apply
 
+```XML
+    <com.toeii.qqwallview.QQWallView 
+       android:id="@+id/tagView"
+       android:layout_width="match_parent"
+       android:layout_height="150dp"
+    />
+```
+
 ```java
     val qqWallView = findViewById<QQWallView>(R.id.tagView)
             
