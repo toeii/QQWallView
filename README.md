@@ -50,6 +50,7 @@ Step 2. Add the dependency
     tags.add("IT男")
     qqWallView.setTags(tags)
     
+    //reset view
     findViewById<View>(R.id.button).setOnClickListener {
         qqWallView.reTypeSetting() 
     }
