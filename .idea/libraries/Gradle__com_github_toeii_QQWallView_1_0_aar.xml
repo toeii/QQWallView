@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.toeii:QQWallView:1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/QQWallView-1.0.aar/104d4ee7f87f6e60b1b824c663c57fd2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/QQWallView-1.0.aar/104d4ee7f87f6e60b1b824c663c57fd2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.toeii/QQWallView/1.0/4e954eeaa136d0162649b4c6c1579293c7afcfc3/QQWallView-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
