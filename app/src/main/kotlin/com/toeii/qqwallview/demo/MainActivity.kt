@@ -10,8 +10,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         val qqWallView = findViewById<QQWallView>(R.id.tagView)
+
         qqWallView.setColors(0xFF333333.toInt(), 0xFF999999.toInt())
+
         val tags = ArrayList<String>()
         tags.add("小清新")
         tags.add("萌萌哒")
@@ -21,6 +24,10 @@ class MainActivity : AppCompatActivity() {
         tags.add("爱旅游")
         tags.add("IT男")
         qqWallView.setTags(tags)
-        findViewById<View>(R.id.button).setOnClickListener { qqWallView.reTypeSetting() }
+
+        findViewById<View>(R.id.button).setOnClickListener {
+            qqWallView.reTypeSetting()
+        }
+
     }
 }
